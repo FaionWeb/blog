@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Welcome to Jekyll!"
+title:  "Тестовый пост для коментариев"
 date:   2015-10-20 12:50:52
 categories: jekyll update
 ---
@@ -10,7 +10,11 @@ To add new posts, simply add a file in the `_posts` directory that follows the c
 
 Jekyll also offers powerful support for code snippets:
 
-{% highlight ruby %}
+{% highlight html %}
+<div>
+  <h1>Test code html</h1>
+</div>
+
 def print_hi(name)
   puts "Hi, #{name}"
 end
