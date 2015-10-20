@@ -22,6 +22,13 @@ print_hi('Tom')
 #=> prints 'Hi, Tom' to STDOUT.
 {% endhighlight %}
 
+> **Tip:** To use **Prettify** instead of **Highlight.js**, just configure the **Markdown Extra** extension in the <i class="icon-cog"></i> **Settings** dialog.
+
+> **Note:** You can find more information:
+
+> - about **Prettify** syntax highlighting [here][5],
+> - about **Highlight.js** syntax highlighting [here][6].
+
 Check out the [Jekyll docs][jekyll] for more info on how to get the most out of Jekyll. File all bugs/feature requests at [Jekyll’s GitHub repo][jekyll-gh]. If you have questions, you can ask them on [Jekyll’s dedicated Help repository][jekyll-help].
 
 [jekyll]:      http://jekyllrb.com
