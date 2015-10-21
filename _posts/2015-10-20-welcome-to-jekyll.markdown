@@ -7,7 +7,7 @@ published: true
 ---
 
 
-![2015-09-13-174729.jpg]({{site.baseurl}}/_posts/2015-09-13-174729.jpg)
+![2015-09-13-174729.jpg](_posts/2015-09-13-174729.jpg)
 
 Fak You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
 ________________________________________
