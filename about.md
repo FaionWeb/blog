@@ -9,3 +9,17 @@ This is the base Jekyll theme. You can find out more info about customizing your
 You can find the source code for the Jekyll new theme at: [github.com/jglovier/jekyll-new](https://github.com/jglovier/jekyll-new)
 
 You can find the source code for Jekyll at [github.com/jekyll/jekyll](https://github.com/jekyll/jekyll)
+:set number
+  2 :colors desert
+  3 :syntax on
+  4 :set title
+  5 :set et " autoexchange
+  6 :set wrap
+  7 :set ai " autoOtstup
+  8 :set showmatch
+  9 :set hlsearch
+ 10 :set incsearch
+ 11 :set ignorecase
+ 12 :set listchars=tab:··
+ 13 :set list
+ 14 :set linebreak
